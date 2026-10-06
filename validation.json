@@ -1,0 +1,136 @@
+{
+  "source": "https://kashishyoga.com/200-multi-style/",
+  "sections": 23,
+  "content": [
+    {
+      "section": 0,
+      "source_text_fragments": 9,
+      "missing": []
+    },
+    {
+      "section": 1,
+      "source_text_fragments": 30,
+      "missing": []
+    },
+    {
+      "section": 2,
+      "source_text_fragments": 14,
+      "missing": []
+    },
+    {
+      "section": 3,
+      "source_text_fragments": 0,
+      "missing": []
+    },
+    {
+      "section": 4,
+      "source_text_fragments": 16,
+      "missing": []
+    },
+    {
+      "section": 5,
+      "source_text_fragments": 27,
+      "missing": []
+    },
+    {
+      "section": 6,
+      "source_text_fragments": 64,
+      "missing": []
+    },
+    {
+      "section": 7,
+      "source_text_fragments": 0,
+      "missing": []
+    },
+    {
+      "section": 8,
+      "source_text_fragments": 5,
+      "missing": []
+    },
+    {
+      "section": 9,
+      "source_text_fragments": 1,
+      "missing": []
+    },
+    {
+      "section": 10,
+      "source_text_fragments": 23,
+      "missing": []
+    },
+    {
+      "section": 11,
+      "source_text_fragments": 13,
+      "missing": []
+    },
+    {
+      "section": 12,
+      "source_text_fragments": 148,
+      "missing": []
+    },
+    {
+      "section": 13,
+      "source_text_fragments": 2,
+      "missing": []
+    },
+    {
+      "section": 14,
+      "source_text_fragments": 0,
+      "missing": []
+    },
+    {
+      "section": 15,
+      "source_text_fragments": 0,
+      "missing": []
+    },
+    {
+      "section": 16,
+      "source_text_fragments": 14,
+      "missing": []
+    },
+    {
+      "section": 17,
+      "source_text_fragments": 18,
+      "missing": []
+    },
+    {
+      "section": 18,
+      "source_text_fragments": 9,
+      "missing": []
+    },
+    {
+      "section": 19,
+      "source_text_fragments": 15,
+      "missing": []
+    },
+    {
+      "section": 20,
+      "source_text_fragments": 12,
+      "missing": []
+    },
+    {
+      "section": 21,
+      "source_text_fragments": 51,
+      "missing": []
+    },
+    {
+      "section": 22,
+      "source_text_fragments": 5,
+      "missing": []
+    }
+  ],
+  "images": 57,
+  "frames": [
+    {
+      "file": "desktop-1440.svg",
+      "width": 1440,
+      "height": 29048
+    },
+    {
+      "file": "mobile-390.svg",
+      "width": 390,
+      "height": 45368
+    }
+  ],
+  "missing_text_fragments": 0,
+  "note": "Original wording retained, including source inconsistencies. SVG disclosures are expanded."
+}

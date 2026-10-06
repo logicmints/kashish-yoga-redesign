@@ -1,0 +1,2928 @@
+[
+  {
+    "id": "section-0",
+    "class": "hero-section",
+    "blocks": [
+      {
+        "kind": "h1",
+        "text": "200-HOUR YOGA TEACHER TRAINING · GOA, INDIA",
+        "id": ""
+      },
+      {
+        "kind": "h2",
+        "text": "Become a Certified Yoga Teacher in Goa",
+        "id": ""
+      },
+      {
+        "kind": "h3",
+        "text": "Hatha Yoga | Vinyasa Yoga | Ashtanga Yoga | Yin Yoga | Aerial Yoga | Acro Yoga | SUP Yoga",
+        "id": ""
+      },
+      {
+        "kind": "video",
+        "src": "https://player.vimeo.com/video/749185649"
+      },
+      {
+        "kind": "price",
+        "text": "from €1,450 Early Bird"
+      },
+      {
+        "kind": "action",
+        "text": "CHECK DATES & PRICES",
+        "href": "#course_date"
+      },
+      {
+        "kind": "action",
+        "text": "TALK TO OUR COUNSELLOR",
+        "href": "https://wa.me/9732189000?text=Multi-Style%20200%20Hour"
+      }
+    ]
+  },
+  {
+    "id": "section-1",
+    "class": "section-1 mt-3",
+    "blocks": [
+      {
+        "kind": "p",
+        "text": "A 24-day immersive, multi-style yoga teacher training in India - designed for beginners, experienced professionals and anyone ready to deepen their practice and learn to teach.",
+        "id": ""
+      },
+      {
+        "kind": "p",
+        "text": "23 nights residential accommodation",
+        "id": ""
+      },
+      {
+        "kind": "p",
+        "text": "Vegetarian meals",
+        "id": ""
+      },
+      {
+        "kind": "p",
+        "text": "International student community",
+        "id": ""
+      },
+      {
+        "kind": "p",
+        "text": "Airport Pickup",
+        "id": ""
+      },
+      {
+        "kind": "card",
+        "variant": "trust",
+        "children": [
+          {
+            "kind": "p",
+            "text": "★★★★★ 6,000+ Students",
+            "id": ""
+          },
+          {
+            "kind": "p",
+            "text": "Yoga Alliance International Registered School",
+            "id": ""
+          },
+          {
+            "kind": "image",
+            "src": "https://storage.googleapis.com/kashishyoga01/200/200logo.svg",
+            "alt": "Multi-Style 200 Hour YTTC"
+          },
+          {
+            "kind": "p",
+            "text": "Global Community",
+            "id": ""
+          }
+        ]
+      },
+      {
+        "kind": "h2",
+        "text": "One Certification.",
+        "id": ""
+      },
+      {
+        "kind": "h3",
+        "text": "Seven Yoga Styles. 24 Days in Goa.",
+        "id": ""
+      },
+      {
+        "kind": "p",
+        "text": "Explore traditional, dynamic and modern yoga practices during one immersive teacher training.",
+        "id": ""
+      },
+      {
+        "kind": "action",
+        "text": "SEE THE FULL CURRICULUM",
+        "href": "#learn_the_knowledge"
+      },
+      {
+        "kind": "card",
+        "variant": "sec1-box1",
+        "children": [
+          {
+            "kind": "h4",
+            "text": "Hatha Yoga",
+            "id": ""
+          },
+          {
+            "kind": "image",
+            "src": "https://storage.googleapis.com/kashishyoga01/new200/sec1-img-1.webp",
+            "alt": "200 yoga"
+          },
+          {
+            "kind": "p",
+            "text": "Build a strong foundation in traditional yoga practice.",
+            "id": ""
+          }
+        ]
+      },
+      {
+        "kind": "card",
+        "variant": "sec1-box1",
+        "children": [
+          {
+            "kind": "h4",
+            "text": "Vinyasa Yoga",
+            "id": ""
+          },
+          {
+            "kind": "image",
+            "src": "https://storage.googleapis.com/kashishyoga01/new200/sec1-img-2.webp",
+            "alt": "200 yoga"
+          },
+          {
+            "kind": "p",
+            "text": "Develop breath-led movement & creative sequencing.",
+            "id": ""
+          }
+        ]
+      },
+      {
+        "kind": "card",
+        "variant": "sec1-box1",
+        "children": [
+          {
+            "kind": "h4",
+            "text": "Ashtanga Yoga",
+            "id": ""
+          },
+          {
+            "kind": "image",
+            "src": "https://storage.googleapis.com/kashishyoga01/new200/sec1-img-3.webp",
+            "alt": "200 yoga"
+          },
+          {
+            "kind": "p",
+            "text": "Explore a dynamic & disciplined approach to practice.",
+            "id": ""
+          }
+        ]
+      },
+      {
+        "kind": "card",
+        "variant": "sec1-box1",
+        "children": [
+          {
+            "kind": "h4",
+            "text": "Aerial Yoga",
+            "id": ""
+          },
+          {
+            "kind": "image",
+            "src": "https://storage.googleapis.com/kashishyoga01/new200/sec1-img-4.webp",
+            "alt": "200 yoga"
+          },
+          {
+            "kind": "p",
+            "text": "Experience yoga through suspension and movement.",
+            "id": ""
+          }
+        ]
+      },
+      {
+        "kind": "card",
+        "variant": "sec1-box1",
+        "children": [
+          {
+            "kind": "h4",
+            "text": "Yin Yoga",
+            "id": ""
+          },
+          {
+            "kind": "image",
+            "src": "https://storage.googleapis.com/kashishyoga01/new200/sec1-img-5.webp",
+            "alt": "200 yoga"
+          },
+          {
+            "kind": "p",
+            "text": "Take your yoga practice beyond the shala and onto the water.",
+            "id": ""
+          }
+        ]
+      },
+      {
+        "kind": "card",
+        "variant": "sec1-box1",
+        "children": [
+          {
+            "kind": "h4",
+            "text": "SUP Yoga",
+            "id": ""
+          },
+          {
+            "kind": "image",
+            "src": "https://storage.googleapis.com/kashishyoga01/new200/sec1-img-6.webp",
+            "alt": "200 yoga"
+          },
+          {
+            "kind": "p",
+            "text": "Build core strength, balance and awareness.",
+            "id": ""
+          }
+        ]
+      },
+      {
+        "kind": "card",
+        "variant": "sec1-box1",
+        "children": [
+          {
+            "kind": "h4",
+            "text": "Acro Yoga",
+            "id": ""
+          },
+          {
+            "kind": "image",
+            "src": "https://storage.googleapis.com/kashishyoga01/new200/sec1-img-7.webp",
+            "alt": "200 yoga"
+          },
+          {
+            "kind": "p",
+            "text": "Explore partner-based movement, trust and communication.",
+            "id": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "section-2",
+    "class": "section-2",
+    "blocks": [
+      {
+        "kind": "h2",
+        "text": "More than a Yoga Course.",
+        "id": "course"
+      },
+      {
+        "kind": "h3",
+        "text": "An In-Depth Experience in India.",
+        "id": ""
+      },
+      {
+        "kind": "p",
+        "text": "Spend 24 days learning, practicing and living yoga in South Goa alongside an international community of students.",
+        "id": ""
+      },
+      {
+        "kind": "action",
+        "text": "EXPLORE THE KASHISH EXPERIENCE",
+        "href": "#experience_india"
+      },
+      {
+        "kind": "card",
+        "variant": "border-bottom01",
+        "children": [
+          {
+            "kind": "p",
+            "text": "learn in india",
+            "id": ""
+          },
+          {
+            "kind": "p",
+            "text": "Intake yoga education in the country where the knowledge originated.",
+            "id": ""
+          }
+        ]
+      },
+      {
+        "kind": "card",
+        "variant": "border-bottom01",
+        "children": [
+          {
+            "kind": "p",
+            "text": "RESIDENTIAL EXPERIENCE",
+            "id": ""
+          },
+          {
+            "kind": "p",
+            "text": "Live on campus and dive deep into yourself in the training.",
+            "id": ""
+          }
+        ]
+      },
+      {
+        "kind": "card",
+        "variant": "border-bottom01",
+        "children": [
+          {
+            "kind": "p",
+            "text": "MULTI-STYLE TRAINING",
+            "id": ""
+          },
+          {
+            "kind": "p",
+            "text": "Explore seven different practices and discover which styles resonate with you.",
+            "id": ""
+          }
+        ]
+      },
+      {
+        "kind": "card",
+        "variant": "border-bottom01",
+        "children": [
+          {
+            "kind": "p",
+            "text": "INTERNATIONAL COMMUNITY",
+            "id": ""
+          },
+          {
+            "kind": "p",
+            "text": "Meet students from around the world and build connections beyond the course.",
+            "id": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "section-3",
+    "class": "section-3",
+    "blocks": [
+      {
+        "kind": "image",
+        "src": "https://static.wixstatic.com/media/774f0c_0ef5ccf06d444b0c87ddad16e81f613f~mv2.webp",
+        "alt": "Multi-Style 200"
+      },
+      {
+        "kind": "image",
+        "src": "https://static.wixstatic.com/media/774f0c_78ef52e5fa1447118942d7ac14a4e9a2~mv2.webp",
+        "alt": "Multi-Style 200"
+      },
+      {
+        "kind": "image",
+        "src": "https://static.wixstatic.com/media/774f0c_b9be2bbef3f44fd8ab3c7ac0c4403080~mv2.webp",
+        "alt": "Multi-Style 200"
+      },
+      {
+        "kind": "image",
+        "src": "https://static.wixstatic.com/media/774f0c_9e4073e58b6d40a1b030e88689c5d995~mv2.webp",
+        "alt": "Multi-Style 200"
+      }
+    ]
+  },
+  {
+    "id": "section-4",
+    "class": "section-4",
+    "blocks": [
+      {
+        "kind": "h2",
+        "text": "Is this Yoga Teacher Training",
+        "id": ""
+      },
+      {
+        "kind": "h3",
+        "text": "Right for You?",
+        "id": ""
+      },
+      {
+        "kind": "p",
+        "text": "You don't need to arrive as an experienced yoga teacher. You just need curiosity, commitment and the willingness to learn.",
+        "id": ""
+      },
+      {
+        "kind": "card",
+        "variant": "border-bottom01",
+        "children": [
+          {
+            "kind": "p",
+            "text": "BEGINNER",
+            "id": ""
+          },
+          {
+            "kind": "p",
+            "text": "New to structured yoga education?",
+            "id": ""
+          },
+          {
+            "kind": "p",
+            "text": "You can join the 200-hour program without previous teacher-training experience.",
+            "id": ""
+          }
+        ]
+      },
+      {
+        "kind": "card",
+        "variant": "border-bottom01",
+        "children": [
+          {
+            "kind": "p",
+            "text": "YOGA PRACTITIONER",
+            "id": ""
+          },
+          {
+            "kind": "p",
+            "text": "Ready to deepen your practice?",
+            "id": ""
+          },
+          {
+            "kind": "p",
+            "text": "Explore anatomy, philosophy, meditation and teaching methodology.",
+            "id": ""
+          }
+        ]
+      },
+      {
+        "kind": "card",
+        "variant": "border-bottom01",
+        "children": [
+          {
+            "kind": "p",
+            "text": "ASPIRING TEACHER",
+            "id": ""
+          },
+          {
+            "kind": "p",
+            "text": "Want to teach yoga?",
+            "id": ""
+          },
+          {
+            "kind": "p",
+            "text": "Develop practical teaching skills through guided instruction and teaching practice.",
+            "id": ""
+          }
+        ]
+      },
+      {
+        "kind": "card",
+        "variant": "border-bottom01",
+        "children": [
+          {
+            "kind": "p",
+            "text": "CAREER / LIFE CHANGE",
+            "id": ""
+          },
+          {
+            "kind": "p",
+            "text": "Looking for a meaningful new direction?",
+            "id": ""
+          },
+          {
+            "kind": "p",
+            "text": "Develop a new skill while experiencing a different way of living and learning.",
+            "id": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "section-5",
+    "class": "section-5",
+    "blocks": [
+      {
+        "kind": "h2",
+        "text": "What does 24 Days at",
+        "id": ""
+      },
+      {
+        "kind": "h3",
+        "text": "Kashish Actually Look Like?",
+        "id": ""
+      },
+      {
+        "kind": "p",
+        "text": "A structured daily rhythm of practice, learning, rest and community.",
+        "id": ""
+      },
+      {
+        "kind": "card",
+        "variant": "sec5-box1",
+        "children": [
+          {
+            "kind": "h4",
+            "text": "6:00 AM",
+            "id": ""
+          },
+          {
+            "kind": "h4",
+            "text": "Detox Practice",
+            "id": ""
+          },
+          {
+            "kind": "image",
+            "src": "https://storage.googleapis.com/kashishyoga01/new200/sec5-img-1.webp",
+            "alt": "200 yoga"
+          }
+        ]
+      },
+      {
+        "kind": "card",
+        "variant": "sec5-box1",
+        "children": [
+          {
+            "kind": "h4",
+            "text": "6:30 AM",
+            "id": ""
+          },
+          {
+            "kind": "h4",
+            "text": "Pranayama",
+            "id": ""
+          },
+          {
+            "kind": "image",
+            "src": "https://storage.googleapis.com/kashishyoga01/new200/sec5-img-2.webp",
+            "alt": "200 yoga"
+          }
+        ]
+      },
+      {
+        "kind": "card",
+        "variant": "sec5-box1",
+        "children": [
+          {
+            "kind": "h4",
+            "text": "7:00 AM",
+            "id": ""
+          },
+          {
+            "kind": "h4",
+            "text": "Morning Asana Practice",
+            "id": ""
+          },
+          {
+            "kind": "image",
+            "src": "https://storage.googleapis.com/kashishyoga01/new200/sec5-img-3.webp",
+            "alt": "200 yoga"
+          }
+        ]
+      },
+      {
+        "kind": "card",
+        "variant": "sec5-box1",
+        "children": [
+          {
+            "kind": "h4",
+            "text": "8:30 AM",
+            "id": ""
+          },
+          {
+            "kind": "h4",
+            "text": "Breakfast",
+            "id": ""
+          },
+          {
+            "kind": "image",
+            "src": "https://storage.googleapis.com/kashishyoga01/new200/sec5-img-4.webp",
+            "alt": "200 yoga"
+          }
+        ]
+      },
+      {
+        "kind": "card",
+        "variant": "sec5-box1",
+        "children": [
+          {
+            "kind": "h4",
+            "text": "8:30 AM",
+            "id": ""
+          },
+          {
+            "kind": "h4",
+            "text": "Theoretical Education",
+            "id": ""
+          },
+          {
+            "kind": "image",
+            "src": "https://kashishyoga.com/200-multi-style/image/sec5-img-5.webp",
+            "alt": "200 yoga"
+          }
+        ]
+      },
+      {
+        "kind": "card",
+        "variant": "sec5-box1",
+        "children": [
+          {
+            "kind": "h4",
+            "text": "10:45 AM",
+            "id": ""
+          },
+          {
+            "kind": "h4",
+            "text": "Asana Clinic",
+            "id": ""
+          },
+          {
+            "kind": "image",
+            "src": "https://storage.googleapis.com/kashishyoga01/new200/sec5-img-6.webp",
+            "alt": "200 yoga"
+          }
+        ]
+      },
+      {
+        "kind": "card",
+        "variant": "sec5-box1",
+        "children": [
+          {
+            "kind": "h4",
+            "text": "12:30 PM",
+            "id": ""
+          },
+          {
+            "kind": "h4",
+            "text": "Theoretical Education",
+            "id": ""
+          },
+          {
+            "kind": "image",
+            "src": "https://storage.googleapis.com/kashishyoga01/new200/sec5-img-7.webp",
+            "alt": "200 yoga"
+          }
+        ]
+      },
+      {
+        "kind": "card",
+        "variant": "sec5-box1",
+        "children": [
+          {
+            "kind": "h4",
+            "text": "1:30 PM",
+            "id": ""
+          },
+          {
+            "kind": "h4",
+            "text": "Lunch and Rest",
+            "id": ""
+          },
+          {
+            "kind": "image",
+            "src": "https://storage.googleapis.com/kashishyoga01/new200/sec5-img-8.webp",
+            "alt": "200 yoga"
+          }
+        ]
+      },
+      {
+        "kind": "card",
+        "variant": "sec5-box1",
+        "children": [
+          {
+            "kind": "h4",
+            "text": "3:45 PM",
+            "id": ""
+          },
+          {
+            "kind": "h4",
+            "text": "Teaching Methodology",
+            "id": ""
+          },
+          {
+            "kind": "image",
+            "src": "https://storage.googleapis.com/kashishyoga01/new200/sec5-img-9.webp",
+            "alt": "200 yoga"
+          }
+        ]
+      },
+      {
+        "kind": "card",
+        "variant": "sec5-box1",
+        "children": [
+          {
+            "kind": "h4",
+            "text": "4:45 PM",
+            "id": ""
+          },
+          {
+            "kind": "h4",
+            "text": "Evening Asana Practice",
+            "id": ""
+          },
+          {
+            "kind": "image",
+            "src": "https://storage.googleapis.com/kashishyoga01/new200/sec5-img-10.webp",
+            "alt": "200 yoga"
+          }
+        ]
+      },
+      {
+        "kind": "card",
+        "variant": "sec5-box1",
+        "children": [
+          {
+            "kind": "h4",
+            "text": "6:45 PM",
+            "id": ""
+          },
+          {
+            "kind": "h4",
+            "text": "Meditation",
+            "id": ""
+          },
+          {
+            "kind": "image",
+            "src": "https://storage.googleapis.com/kashishyoga01/new200/sec5-img-11.webp",
+            "alt": "200 yoga"
+          }
+        ]
+      },
+      {
+        "kind": "card",
+        "variant": "sec5-box1",
+        "children": [
+          {
+            "kind": "h4",
+            "text": "7:30 PM",
+            "id": ""
+          },
+          {
+            "kind": "h4",
+            "text": "Dinner",
+            "id": ""
+          },
+          {
+            "kind": "image",
+            "src": "https://storage.googleapis.com/kashishyoga01/new200/sec5-img-12.webp",
+            "alt": "200 yoga"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "section-6",
+    "class": "section-5a",
+    "blocks": [
+      {
+        "kind": "h2",
+        "text": "Learn the Knowledge & Skills",
+        "id": ""
+      },
+      {
+        "kind": "h3",
+        "text": "to Teach Yoga with Confidence",
+        "id": ""
+      },
+      {
+        "kind": "video",
+        "src": "https://player.vimeo.com/video/749591324"
+      },
+      {
+        "kind": "detail",
+        "text": "YOGA PRACTICE",
+        "children": [
+          {
+            "kind": "p",
+            "text": "1. Asana",
+            "id": ""
+          },
+          {
+            "kind": "p",
+            "text": "a. Styles",
+            "id": ""
+          },
+          {
+            "kind": "p",
+            "text": "~ Hatha Yoga - Practice & Sequencing",
+            "id": ""
+          },
+          {
+            "kind": "p",
+            "text": "~ Ashtanga Yoga - Practice",
+            "id": ""
+          },
+          {
+            "kind": "p",
+            "text": "~ Vinyasa Yoga - Practice & Sequencing",
+            "id": ""
+          },
+          {
+            "kind": "p",
+            "text": "~ Aerial Yoga - Practice & Sequencing",
+            "id": ""
+          },
+          {
+            "kind": "p",
+            "text": "~ Yin Yoga - Practice & Sequencing",
+            "id": ""
+          },
+          {
+            "kind": "p",
+            "text": "~ Acro Yoga - Practice",
+            "id": ""
+          },
+          {
+            "kind": "p",
+            "text": "b. Historical Context of Yogasana",
+            "id": ""
+          },
+          {
+            "kind": "p",
+            "text": "c. Alignments, Adjustments, Benefits, Contraindication and Usage of Props",
+            "id": ""
+          },
+          {
+            "kind": "p",
+            "text": "2. Pranayama & Subtle Body",
+            "id": ""
+          },
+          {
+            "kind": "p",
+            "text": "a. Historical context, purpose, relation to other yogic techniques",
+            "id": ""
+          },
+          {
+            "kind": "p",
+            "text": "b. Practice, Techniques and Sequencing",
+            "id": ""
+          },
+          {
+            "kind": "p",
+            "text": "c. Anatomical perspective",
+            "id": ""
+          },
+          {
+            "kind": "p",
+            "text": "3. Meditation",
+            "id": ""
+          },
+          {
+            "kind": "p",
+            "text": "a. Key terms, historical context, preparation and purpose",
+            "id": ""
+          },
+          {
+            "kind": "p",
+            "text": "b. Effect of meditation on chakras",
+            "id": ""
+          },
+          {
+            "kind": "p",
+            "text": "c. Psychological and physiological effects of meditation; yoga counselling",
+            "id": ""
+          },
+          {
+            "kind": "p",
+            "text": "d. Practice and Sequencing",
+            "id": ""
+          }
+        ]
+      },
+      {
+        "kind": "detail",
+        "text": "ANATOMY AND PHYSIOLOGY",
+        "children": [
+          {
+            "kind": "p",
+            "text": "1. Anatomy",
+            "id": ""
+          },
+          {
+            "kind": "p",
+            "text": "a. Skeletal and Muscular System",
+            "id": ""
+          },
+          {
+            "kind": "p",
+            "text": "b. Relevance of posture",
+            "id": ""
+          },
+          {
+            "kind": "p",
+            "text": "2. Physiology",
+            "id": ""
+          },
+          {
+            "kind": "p",
+            "text": "a. Understanding of different body systems (nervous, cardiovascular, endocrine, digestive & respiratory)",
+            "id": ""
+          },
+          {
+            "kind": "p",
+            "text": "b. Understanding of yogic anatomy (koshas, chakras, prana, nadis, kundalini, doshas and gunas)",
+            "id": ""
+          },
+          {
+            "kind": "p",
+            "text": "c. Relationship between ANS/CNS, vagal tone and breathing",
+            "id": ""
+          },
+          {
+            "kind": "p",
+            "text": "3. Biomechanics",
+            "id": ""
+          },
+          {
+            "kind": "p",
+            "text": "a. Joint movements and stabilisation",
+            "id": ""
+          },
+          {
+            "kind": "p",
+            "text": "b. Body balance, stretching, movement with awareness and trauma",
+            "id": ""
+          }
+        ]
+      },
+      {
+        "kind": "detail",
+        "text": "YOGA PHILOSOPHY",
+        "children": [
+          {
+            "kind": "p",
+            "text": "1. History",
+            "id": ""
+          },
+          {
+            "kind": "p",
+            "text": "a. What is yoga and its different paths",
+            "id": ""
+          },
+          {
+            "kind": "p",
+            "text": "b. History",
+            "id": ""
+          },
+          {
+            "kind": "p",
+            "text": "c. Styles",
+            "id": ""
+          },
+          {
+            "kind": "p",
+            "text": "2. Philosophy",
+            "id": ""
+          },
+          {
+            "kind": "p",
+            "text": "a. Relationship between Asana, Pranayama and Meditation",
+            "id": ""
+          },
+          {
+            "kind": "p",
+            "text": "b. Yogic Texts",
+            "id": ""
+          },
+          {
+            "kind": "p",
+            "text": "~ Upanishads",
+            "id": ""
+          },
+          {
+            "kind": "p",
+            "text": "~ Bhagwad Gita",
+            "id": ""
+          },
+          {
+            "kind": "p",
+            "text": "~ Yoga Sutras of Patanjali",
+            "id": ""
+          },
+          {
+            "kind": "p",
+            "text": "~ Hatha Yoga Pradipika",
+            "id": ""
+          },
+          {
+            "kind": "p",
+            "text": "~ Yoga as per Tantric Traditions",
+            "id": ""
+          },
+          {
+            "kind": "p",
+            "text": "c. Relevance of philosophy on daily life",
+            "id": ""
+          },
+          {
+            "kind": "p",
+            "text": "3. Teacher Ethics",
+            "id": ""
+          },
+          {
+            "kind": "p",
+            "text": "a. Relationship between yogic practices and eight limbs",
+            "id": ""
+          },
+          {
+            "kind": "p",
+            "text": "b. Practical application & accountability",
+            "id": ""
+          },
+          {
+            "kind": "p",
+            "text": "c. Code of conduct",
+            "id": ""
+          }
+        ]
+      },
+      {
+        "kind": "detail",
+        "text": "TEACHING METHODOLOGY",
+        "children": [
+          {
+            "kind": "p",
+            "text": "1. Teaching Methodology",
+            "id": ""
+          },
+          {
+            "kind": "p",
+            "text": "a. Principles of demonstration, observation, assisting and correcting",
+            "id": ""
+          },
+          {
+            "kind": "p",
+            "text": "b. Importance of Verbal, visual and physical communication",
+            "id": ""
+          },
+          {
+            "kind": "p",
+            "text": "c. Classroom management",
+            "id": ""
+          },
+          {
+            "kind": "p",
+            "text": "d. Practice selection, pacing and sequencing",
+            "id": ""
+          },
+          {
+            "kind": "p",
+            "text": "2. Professional Development",
+            "id": ""
+          },
+          {
+            "kind": "p",
+            "text": "a. Business aspects of teaching yoga",
+            "id": ""
+          },
+          {
+            "kind": "p",
+            "text": "b. Marketing and promotion tools",
+            "id": ""
+          },
+          {
+            "kind": "p",
+            "text": "c. Registration with Yoga Alliance",
+            "id": ""
+          },
+          {
+            "kind": "p",
+            "text": "d. Administrative management skills",
+            "id": ""
+          },
+          {
+            "kind": "p",
+            "text": "3. Practicum",
+            "id": ""
+          },
+          {
+            "kind": "p",
+            "text": "a. Teaching Practice & Observation",
+            "id": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "section-7",
+    "class": "section-6",
+    "blocks": [
+      {
+        "kind": "image",
+        "src": "https://static.wixstatic.com/media/774f0c_755b61538573456393cef32a68744164~mv2.webp",
+        "alt": "Multi-Style 200 Hour YTTC"
+      },
+      {
+        "kind": "image",
+        "src": "https://static.wixstatic.com/media/774f0c_f186a56befdd42c7b8fabd61c19d2aa5~mv2.webp",
+        "alt": "Multi-Style 200 Hour YTTC"
+      },
+      {
+        "kind": "image",
+        "src": "https://static.wixstatic.com/media/774f0c_184eeedc3ffc4c73bab975596095cd80~mv2.webp",
+        "alt": "Multi-Style 200 Hour YTTC"
+      },
+      {
+        "kind": "image",
+        "src": "https://static.wixstatic.com/media/774f0c_9529a41d3a7e4f16a394e76aafd17842~mv2.webp",
+        "alt": "Multi-Style 200 Hour YTTC"
+      }
+    ]
+  },
+  {
+    "id": "section-8",
+    "class": "section-7",
+    "blocks": [
+      {
+        "kind": "h2",
+        "text": "Learn Yoga. Live in Goa.",
+        "id": "experience"
+      },
+      {
+        "kind": "h3",
+        "text": "Experience India.",
+        "id": "experience_india"
+      },
+      {
+        "kind": "p",
+        "text": "Your teacher training happens inside a residential experience designed to give you space to learn, rest and connect.",
+        "id": ""
+      },
+      {
+        "kind": "video",
+        "src": "https://player.vimeo.com/video/1078905458"
+      },
+      {
+        "kind": "p",
+        "text": "Between training sessions, enjoy the slower rhythm of South Goa - from time by the pool to exploring the surrounding areas, sharing meals with classmates and experiencing life away from your normal routine.",
+        "id": ""
+      }
+    ]
+  },
+  {
+    "id": "section-9",
+    "class": "section-8",
+    "blocks": [
+      {
+        "kind": "image",
+        "src": "https://static.wixstatic.com/media/774f0c_5b949ac497eb44649ebcd1a59aae5219~mv2.webp",
+        "alt": "Multi-Style 200 Hour YTTC"
+      },
+      {
+        "kind": "image",
+        "src": "https://static.wixstatic.com/media/774f0c_ba20000a6ac2454b91632f87250d28a8~mv2.webp",
+        "alt": "Multi-Style 200 Hour YTTC"
+      },
+      {
+        "kind": "image",
+        "src": "https://static.wixstatic.com/media/774f0c_112cd7ba115b4d4ca6bb4ecacbab4b18~mv2.webp",
+        "alt": "Multi-Style 200 Hour YTTC"
+      },
+      {
+        "kind": "image",
+        "src": "https://static.wixstatic.com/media/774f0c_e33717b9f2ec492c9dc3b40727a4d2f6~mv2.webp",
+        "alt": "Multi-Style 200 Hour YTTC"
+      },
+      {
+        "kind": "action",
+        "text": "SEE THE CAMPUS & ACCOMMODATION",
+        "href": "#choose_the_stay"
+      }
+    ]
+  },
+  {
+    "id": "section-10",
+    "class": "section-9",
+    "blocks": [
+      {
+        "kind": "h2",
+        "text": "One Price.",
+        "id": ""
+      },
+      {
+        "kind": "h3",
+        "text": "Your 24-Day Yoga Experience.",
+        "id": ""
+      },
+      {
+        "kind": "price",
+        "text": "from €1,450 Early Bird"
+      },
+      {
+        "kind": "p",
+        "text": "23 nights’ stay",
+        "id": ""
+      },
+      {
+        "kind": "image",
+        "src": "https://storage.googleapis.com/kashishyoga01/new200/sec9-img-1.webp",
+        "alt": "200 yoga"
+      },
+      {
+        "kind": "p",
+        "text": "Course manual and materials",
+        "id": ""
+      },
+      {
+        "kind": "image",
+        "src": "https://storage.googleapis.com/kashishyoga01/new200/sec9-img-2.webp",
+        "alt": "200 yoga"
+      },
+      {
+        "kind": "p",
+        "text": "3 vegetarian meals/day (Sundays off)",
+        "id": ""
+      },
+      {
+        "kind": "image",
+        "src": "https://storage.googleapis.com/kashishyoga01/new200/sec9-img-3.webp",
+        "alt": "200 yoga"
+      },
+      {
+        "kind": "p",
+        "text": "1 Ayurvedic massage to recuperate",
+        "id": ""
+      },
+      {
+        "kind": "image",
+        "src": "https://storage.googleapis.com/kashishyoga01/new200/sec9-img-4.webp",
+        "alt": "200 yoga"
+      },
+      {
+        "kind": "p",
+        "text": "Ayurvedic detox shots",
+        "id": ""
+      },
+      {
+        "kind": "image",
+        "src": "https://storage.googleapis.com/kashishyoga01/new200/sec9-img-5.webp",
+        "alt": "200 yoga"
+      },
+      {
+        "kind": "p",
+        "text": "Vegan/Gluten free options available",
+        "id": ""
+      },
+      {
+        "kind": "image",
+        "src": "https://storage.googleapis.com/kashishyoga01/new200/sec9-img-6.webp",
+        "alt": "200 yoga"
+      },
+      {
+        "kind": "p",
+        "text": "1 Fresh fruit juice/day",
+        "id": ""
+      },
+      {
+        "kind": "p",
+        "text": "Shuttle pickup from Dabolim Goa Airport*",
+        "id": ""
+      },
+      {
+        "kind": "p",
+        "text": "Wi-fi access",
+        "id": ""
+      },
+      {
+        "kind": "p",
+        "text": "24 hours tea, coffee, filtered water",
+        "id": ""
+      },
+      {
+        "kind": "p",
+        "text": "Access to swimming pool",
+        "id": ""
+      },
+      {
+        "kind": "p",
+        "text": "Free bicycles (12 minutes to the beach)",
+        "id": ""
+      },
+      {
+        "kind": "p",
+        "text": "Ayurvedic cooking class",
+        "id": ""
+      },
+      {
+        "kind": "p",
+        "text": "Indian saree draping session",
+        "id": ""
+      },
+      {
+        "kind": "p",
+        "text": "Naturopathy Experience",
+        "id": ""
+      },
+      {
+        "kind": "p",
+        "text": "Access to online library 100+ books)",
+        "id": ""
+      },
+      {
+        "kind": "p",
+        "text": "Flights, visa fees and personal expenses are not included.",
+        "id": ""
+      },
+      {
+        "kind": "action",
+        "text": "BOOK YOUR SLOT NOW",
+        "href": "https://kashishyoga.com/200-multi-style-apply/"
+      }
+    ]
+  },
+  {
+    "id": "section-11",
+    "class": "section-9a",
+    "blocks": [
+      {
+        "kind": "h2",
+        "text": "Choose the Stay that suits you!",
+        "id": "choose_the_stay"
+      },
+      {
+        "kind": "video",
+        "src": "https://player.vimeo.com/video/1078897771"
+      },
+      {
+        "kind": "card",
+        "variant": "sec9a-box",
+        "children": [
+          {
+            "kind": "h5",
+            "text": "Dormitory",
+            "id": ""
+          },
+          {
+            "kind": "price",
+            "text": "from €1,450 Early Bird"
+          },
+          {
+            "kind": "p",
+            "text": "Shared accommodation for students who want the most social and economical option.",
+            "id": ""
+          },
+          {
+            "kind": "image",
+            "src": "https://storage.googleapis.com/kashishyoga01/new200/sec9a-img-1.webp",
+            "alt": "200 yoga"
+          },
+          {
+            "kind": "action",
+            "text": "CHOOSE DORMITORY",
+            "href": "https://kashishyoga.com/200-multi-style-apply/"
+          }
+        ]
+      },
+      {
+        "kind": "card",
+        "variant": "sec9a-box",
+        "children": [
+          {
+            "kind": "h5",
+            "text": "Twin - Sharing",
+            "id": ""
+          },
+          {
+            "kind": "price",
+            "text": "from €1,750 Early Bird"
+          },
+          {
+            "kind": "p",
+            "text": "A more private shared-room experience.",
+            "id": ""
+          },
+          {
+            "kind": "image",
+            "src": "https://storage.googleapis.com/kashishyoga01/new200/sec9a-img-2.webp",
+            "alt": "200 yoga"
+          },
+          {
+            "kind": "action",
+            "text": "CHOOSE TWIN SHARE HUT",
+            "href": "https://kashishyoga.com/200-multi-style-apply/"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "section-12",
+    "class": "section-10",
+    "blocks": [
+      {
+        "kind": "h2",
+        "text": "Choose Your",
+        "id": "course_date"
+      },
+      {
+        "kind": "h3",
+        "text": "2026/27 Course Date",
+        "id": ""
+      },
+      {
+        "kind": "p",
+        "text": "Find the start date that works for your schedule and begin planning your journey to Goa.",
+        "id": ""
+      },
+      {
+        "kind": "card",
+        "variant": "sec10-boxs",
+        "children": [
+          {
+            "kind": "h5",
+            "text": "12th Oct - 04th Nov 2026",
+            "id": ""
+          },
+          {
+            "kind": "p",
+            "text": "24 Days",
+            "id": ""
+          },
+          {
+            "kind": "p",
+            "text": "10 Spots Available",
+            "id": ""
+          },
+          {
+            "kind": "p",
+            "text": "Dormitory | €1,500",
+            "id": ""
+          },
+          {
+            "kind": "p",
+            "text": "Twin-Sharing | €1,800",
+            "id": ""
+          },
+          {
+            "kind": "action",
+            "text": "SELECT THIS DATE",
+            "href": "https://kashishyoga.com/200-multi-style-apply/"
+          }
+        ]
+      },
+      {
+        "kind": "card",
+        "variant": "sec10-boxs",
+        "children": [
+          {
+            "kind": "h5",
+            "text": "23rd Oct - 15th Nov 2026",
+            "id": ""
+          },
+          {
+            "kind": "p",
+            "text": "24 Days",
+            "id": ""
+          },
+          {
+            "kind": "p",
+            "text": "8 Spots Available",
+            "id": ""
+          },
+          {
+            "kind": "p",
+            "text": "Dormitory | €1,500",
+            "id": ""
+          },
+          {
+            "kind": "p",
+            "text": "Twin-Sharing | €1,800",
+            "id": ""
+          },
+          {
+            "kind": "action",
+            "text": "SELECT THIS DATE",
+            "href": "https://kashishyoga.com/200-multi-style-apply/"
+          }
+        ]
+      },
+      {
+        "kind": "card",
+        "variant": "sec10-boxs",
+        "children": [
+          {
+            "kind": "h5",
+            "text": "05th Nov - 28th Nov 2026",
+            "id": ""
+          },
+          {
+            "kind": "p",
+            "text": "24 Days",
+            "id": ""
+          },
+          {
+            "kind": "p",
+            "text": "5 Spots Available",
+            "id": ""
+          },
+          {
+            "kind": "p",
+            "text": "Dormitory | €1,500",
+            "id": ""
+          },
+          {
+            "kind": "p",
+            "text": "Twin-Sharing | €1,800",
+            "id": ""
+          },
+          {
+            "kind": "action",
+            "text": "SELECT THIS DATE",
+            "href": "https://kashishyoga.com/200-multi-style-apply/"
+          }
+        ]
+      },
+      {
+        "kind": "card",
+        "variant": "sec10-boxs",
+        "children": [
+          {
+            "kind": "h5",
+            "text": "16th Nov - 09th Dec 2026",
+            "id": ""
+          },
+          {
+            "kind": "p",
+            "text": "24 Days",
+            "id": ""
+          },
+          {
+            "kind": "p",
+            "text": "12 Spots Available",
+            "id": ""
+          },
+          {
+            "kind": "p",
+            "text": "Dormitory | €1,500",
+            "id": ""
+          },
+          {
+            "kind": "p",
+            "text": "Twin-Sharing | €1,800",
+            "id": ""
+          },
+          {
+            "kind": "action",
+            "text": "SELECT THIS DATE",
+            "href": "https://kashishyoga.com/200-multi-style-apply/"
+          }
+        ]
+      },
+      {
+        "kind": "card",
+        "variant": "sec10-boxs",
+        "children": [
+          {
+            "kind": "h5",
+            "text": "30th Nov - 23rd Dec 2026",
+            "id": ""
+          },
+          {
+            "kind": "p",
+            "text": "24 Days",
+            "id": ""
+          },
+          {
+            "kind": "p",
+            "text": "12 Spots Available",
+            "id": ""
+          },
+          {
+            "kind": "p",
+            "text": "Dormitory | €1,500",
+            "id": ""
+          },
+          {
+            "kind": "p",
+            "text": "Twin-Sharing | €1,800",
+            "id": ""
+          },
+          {
+            "kind": "action",
+            "text": "SELECT THIS DATE",
+            "href": "https://kashishyoga.com/200-multi-style-apply/"
+          }
+        ]
+      },
+      {
+        "kind": "card",
+        "variant": "sec10-boxs",
+        "children": [
+          {
+            "kind": "h5",
+            "text": "10th Dec 2026 - 02nd Jan 2027",
+            "id": ""
+          },
+          {
+            "kind": "p",
+            "text": "24 Days",
+            "id": ""
+          },
+          {
+            "kind": "p",
+            "text": "10 Spots Available",
+            "id": ""
+          },
+          {
+            "kind": "p",
+            "text": "Dormitory | €1,450 Early Bird",
+            "id": ""
+          },
+          {
+            "kind": "p",
+            "text": "Twin-Sharing | €1,750 Early Bird",
+            "id": ""
+          },
+          {
+            "kind": "action",
+            "text": "SELECT THIS DATE",
+            "href": "https://kashishyoga.com/200-multi-style-apply/"
+          }
+        ]
+      },
+      {
+        "kind": "card",
+        "variant": "sec10-boxs",
+        "children": [
+          {
+            "kind": "h5",
+            "text": "24th Dec 2026 - 16th Jan 2027",
+            "id": ""
+          },
+          {
+            "kind": "p",
+            "text": "24 Days",
+            "id": ""
+          },
+          {
+            "kind": "p",
+            "text": "7 Spots Available",
+            "id": ""
+          },
+          {
+            "kind": "p",
+            "text": "Dormitory | €1,450 Early Bird",
+            "id": ""
+          },
+          {
+            "kind": "p",
+            "text": "Twin-Sharing | €1,750 Early Bird",
+            "id": ""
+          },
+          {
+            "kind": "action",
+            "text": "SELECT THIS DATE",
+            "href": "https://kashishyoga.com/200-multi-style-apply/"
+          }
+        ]
+      },
+      {
+        "kind": "card",
+        "variant": "sec10-boxs",
+        "children": [
+          {
+            "kind": "h5",
+            "text": "04th Jan - 27th Jan 2027",
+            "id": ""
+          },
+          {
+            "kind": "p",
+            "text": "24 Days",
+            "id": ""
+          },
+          {
+            "kind": "p",
+            "text": "9 Spots Available",
+            "id": ""
+          },
+          {
+            "kind": "p",
+            "text": "Dormitory | €1,450 Early Bird",
+            "id": ""
+          },
+          {
+            "kind": "p",
+            "text": "Twin-Sharing | €1,750 Early Bird",
+            "id": ""
+          },
+          {
+            "kind": "action",
+            "text": "SELECT THIS DATE",
+            "href": "https://kashishyoga.com/200-multi-style-apply/"
+          }
+        ]
+      },
+      {
+        "kind": "card",
+        "variant": "sec10-boxs",
+        "children": [
+          {
+            "kind": "h5",
+            "text": "16th Jan - 08th Feb 2027",
+            "id": ""
+          },
+          {
+            "kind": "p",
+            "text": "24 Days",
+            "id": ""
+          },
+          {
+            "kind": "p",
+            "text": "10 Spots Available",
+            "id": ""
+          },
+          {
+            "kind": "p",
+            "text": "Dormitory | €1,450 Early Bird",
+            "id": ""
+          },
+          {
+            "kind": "p",
+            "text": "Twin-Sharing | €1,750 Early Bird",
+            "id": ""
+          },
+          {
+            "kind": "action",
+            "text": "SELECT THIS DATE",
+            "href": "https://kashishyoga.com/200-multi-style-apply/"
+          }
+        ]
+      },
+      {
+        "kind": "card",
+        "variant": "sec10-boxs",
+        "children": [
+          {
+            "kind": "h5",
+            "text": "28th Jan - 20th Feb 2027",
+            "id": ""
+          },
+          {
+            "kind": "p",
+            "text": "24 Days",
+            "id": ""
+          },
+          {
+            "kind": "p",
+            "text": "6 Spots Available",
+            "id": ""
+          },
+          {
+            "kind": "p",
+            "text": "Dormitory | €1,450 Early Bird",
+            "id": ""
+          },
+          {
+            "kind": "p",
+            "text": "Twin-Sharing | €1,750 Early Bird",
+            "id": ""
+          },
+          {
+            "kind": "action",
+            "text": "SELECT THIS DATE",
+            "href": "https://kashishyoga.com/200-multi-style-apply/"
+          }
+        ]
+      },
+      {
+        "kind": "card",
+        "variant": "sec10-boxs",
+        "children": [
+          {
+            "kind": "h5",
+            "text": "09th Feb - 04th Mar 2027",
+            "id": ""
+          },
+          {
+            "kind": "p",
+            "text": "24 Days",
+            "id": ""
+          },
+          {
+            "kind": "p",
+            "text": "4 Spots Available",
+            "id": ""
+          },
+          {
+            "kind": "p",
+            "text": "Dormitory | €1,450 Early Bird",
+            "id": ""
+          },
+          {
+            "kind": "p",
+            "text": "Twin-Sharing | €1,750 Early Bird",
+            "id": ""
+          },
+          {
+            "kind": "action",
+            "text": "SELECT THIS DATE",
+            "href": "https://kashishyoga.com/200-multi-style-apply/"
+          }
+        ]
+      },
+      {
+        "kind": "card",
+        "variant": "sec10-boxs",
+        "children": [
+          {
+            "kind": "h5",
+            "text": "22nd Feb - 17th Mar 2027",
+            "id": ""
+          },
+          {
+            "kind": "p",
+            "text": "24 Days",
+            "id": ""
+          },
+          {
+            "kind": "p",
+            "text": "8 Spots Available",
+            "id": ""
+          },
+          {
+            "kind": "p",
+            "text": "Dormitory | €1,450 Early Bird",
+            "id": ""
+          },
+          {
+            "kind": "p",
+            "text": "Twin-Sharing | €1,750 Early Bird",
+            "id": ""
+          },
+          {
+            "kind": "action",
+            "text": "SELECT THIS DATE",
+            "href": "https://kashishyoga.com/200-multi-style-apply/"
+          }
+        ]
+      },
+      {
+        "kind": "card",
+        "variant": "sec10-boxs",
+        "children": [
+          {
+            "kind": "h5",
+            "text": "05th Mar - 28th Mar 2027",
+            "id": ""
+          },
+          {
+            "kind": "p",
+            "text": "24 Days",
+            "id": ""
+          },
+          {
+            "kind": "p",
+            "text": "15 Spots Available",
+            "id": ""
+          },
+          {
+            "kind": "p",
+            "text": "Dormitory | €1,450 Early Bird",
+            "id": ""
+          },
+          {
+            "kind": "p",
+            "text": "Twin-Sharing | €1,750 Early Bird",
+            "id": ""
+          },
+          {
+            "kind": "action",
+            "text": "SELECT THIS DATE",
+            "href": "https://kashishyoga.com/200-multi-style-apply/"
+          }
+        ]
+      },
+      {
+        "kind": "card",
+        "variant": "sec10-boxs",
+        "children": [
+          {
+            "kind": "h5",
+            "text": "18th Mar - 10th Apr 2027",
+            "id": ""
+          },
+          {
+            "kind": "p",
+            "text": "24 Days",
+            "id": ""
+          },
+          {
+            "kind": "p",
+            "text": "17 Spots Available",
+            "id": ""
+          },
+          {
+            "kind": "p",
+            "text": "Dormitory | €1,450 Early Bird",
+            "id": ""
+          },
+          {
+            "kind": "p",
+            "text": "Twin-Sharing | €1,750 Early Bird",
+            "id": ""
+          },
+          {
+            "kind": "action",
+            "text": "SELECT THIS DATE",
+            "href": "https://kashishyoga.com/200-multi-style-apply/"
+          }
+        ]
+      },
+      {
+        "kind": "card",
+        "variant": "sec10-boxs",
+        "children": [
+          {
+            "kind": "h5",
+            "text": "29th Mar - 21st Apr 2027",
+            "id": ""
+          },
+          {
+            "kind": "p",
+            "text": "24 Days",
+            "id": ""
+          },
+          {
+            "kind": "p",
+            "text": "17 Spots Available",
+            "id": ""
+          },
+          {
+            "kind": "p",
+            "text": "Dormitory | €1,450 Early Bird",
+            "id": ""
+          },
+          {
+            "kind": "p",
+            "text": "Twin-Sharing | €1,750 Early Bird",
+            "id": ""
+          },
+          {
+            "kind": "action",
+            "text": "SELECT THIS DATE",
+            "href": "https://kashishyoga.com/200-multi-style-apply/"
+          }
+        ]
+      },
+      {
+        "kind": "card",
+        "variant": "sec10-boxs",
+        "children": [
+          {
+            "kind": "h5",
+            "text": "12th Apr - 05th May 2027",
+            "id": ""
+          },
+          {
+            "kind": "p",
+            "text": "24 Days",
+            "id": ""
+          },
+          {
+            "kind": "p",
+            "text": "20 Spots Available",
+            "id": ""
+          },
+          {
+            "kind": "p",
+            "text": "Dormitory | €1,450 Early Bird",
+            "id": ""
+          },
+          {
+            "kind": "p",
+            "text": "Twin-Sharing | €1,750 Early Bird",
+            "id": ""
+          },
+          {
+            "kind": "action",
+            "text": "SELECT THIS DATE",
+            "href": "https://kashishyoga.com/200-multi-style-apply/"
+          }
+        ]
+      },
+      {
+        "kind": "card",
+        "variant": "sec10-boxs",
+        "children": [
+          {
+            "kind": "h5",
+            "text": "22nd Apr - 15th May 2027",
+            "id": ""
+          },
+          {
+            "kind": "p",
+            "text": "24 Days",
+            "id": ""
+          },
+          {
+            "kind": "p",
+            "text": "20 Spots Available",
+            "id": ""
+          },
+          {
+            "kind": "p",
+            "text": "Dormitory | €1,450 Early Bird",
+            "id": ""
+          },
+          {
+            "kind": "p",
+            "text": "Twin-Sharing | €1,750 Early Bird",
+            "id": ""
+          },
+          {
+            "kind": "action",
+            "text": "SELECT THIS DATE",
+            "href": "https://kashishyoga.com/200-multi-style-apply/"
+          }
+        ]
+      },
+      {
+        "kind": "card",
+        "variant": "sec10-boxs",
+        "children": [
+          {
+            "kind": "h5",
+            "text": "06th May - 29th May 2027",
+            "id": ""
+          },
+          {
+            "kind": "p",
+            "text": "24 Days",
+            "id": ""
+          },
+          {
+            "kind": "p",
+            "text": "20 Spots Available",
+            "id": ""
+          },
+          {
+            "kind": "p",
+            "text": "Dormitory | €1,450 Early Bird",
+            "id": ""
+          },
+          {
+            "kind": "p",
+            "text": "Twin-Sharing | €1,750 Early Bird",
+            "id": ""
+          },
+          {
+            "kind": "action",
+            "text": "SELECT THIS DATE",
+            "href": "https://kashishyoga.com/200-multi-style-apply/"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "section-13",
+    "class": "section-10",
+    "blocks": [
+      {
+        "kind": "h2",
+        "text": "Testimonials",
+        "id": "reviews"
+      },
+      {
+        "kind": "p",
+        "text": "Hear directly from students who travelled to Goa for their yoga teacher training.",
+        "id": ""
+      }
+    ]
+  },
+  {
+    "id": "section-14",
+    "class": "section-6b",
+    "blocks": [
+      {
+        "kind": "video",
+        "src": "https://player.vimeo.com/video/728367672"
+      },
+      {
+        "kind": "video",
+        "src": "https://player.vimeo.com/video/749529193"
+      },
+      {
+        "kind": "video",
+        "src": "https://player.vimeo.com/video/672698498"
+      },
+      {
+        "kind": "video",
+        "src": "https://player.vimeo.com/video/672702078"
+      }
+    ]
+  },
+  {
+    "id": "section-15",
+    "class": "section-6a",
+    "blocks": [
+      {
+        "kind": "image",
+        "src": "https://kashishyoga.com/200-multi-style/image/review_2.webp",
+        "alt": "Multi-Style 200"
+      },
+      {
+        "kind": "image",
+        "src": "https://kashishyoga.com/200-multi-style/image/review_4.webp",
+        "alt": "Multi-Style 200"
+      },
+      {
+        "kind": "image",
+        "src": "https://kashishyoga.com/200-multi-style/image/review_3.webp",
+        "alt": "Multi-Style 200"
+      },
+      {
+        "kind": "image",
+        "src": "https://kashishyoga.com/200-multi-style/image/review_1.webp",
+        "alt": "Multi-Style 200"
+      }
+    ]
+  },
+  {
+    "id": "section-16",
+    "class": "section-11 left-custom-padding-31",
+    "blocks": [
+      {
+        "kind": "h2",
+        "text": "Why Students Travel to",
+        "id": ""
+      },
+      {
+        "kind": "h3",
+        "text": "Goa for Kashish",
+        "id": ""
+      },
+      {
+        "kind": "card",
+        "variant": "sec11-box",
+        "children": [
+          {
+            "kind": "image",
+            "src": "https://storage.googleapis.com/kashishyoga01/new200/sec11-img-1.webp",
+            "alt": "200 yoga"
+          },
+          {
+            "kind": "p",
+            "text": "6,000+ STUDENTS",
+            "id": ""
+          },
+          {
+            "kind": "p",
+            "text": "Large student community.",
+            "id": ""
+          }
+        ]
+      },
+      {
+        "kind": "card",
+        "variant": "sec11-box1",
+        "children": [
+          {
+            "kind": "image",
+            "src": "https://storage.googleapis.com/kashishyoga01/new200/sec11-img-2.webp",
+            "alt": "200 yoga"
+          },
+          {
+            "kind": "p",
+            "text": "MULTI-STYLE TRAINING",
+            "id": ""
+          },
+          {
+            "kind": "p",
+            "text": "Seven yoga styles within one program.",
+            "id": ""
+          }
+        ]
+      },
+      {
+        "kind": "card",
+        "variant": "sec11-box",
+        "children": [
+          {
+            "kind": "image",
+            "src": "https://storage.googleapis.com/kashishyoga01/new200/sec11-img-3.webp",
+            "alt": "200 yoga"
+          },
+          {
+            "kind": "p",
+            "text": "MULTI-STYLE TRAINING",
+            "id": ""
+          },
+          {
+            "kind": "p",
+            "text": "Seven yoga styles within one program.",
+            "id": ""
+          }
+        ]
+      },
+      {
+        "kind": "card",
+        "variant": "sec11-box",
+        "children": [
+          {
+            "kind": "image",
+            "src": "https://storage.googleapis.com/kashishyoga01/new200/sec11-img-4.webp",
+            "alt": "200 yoga"
+          },
+          {
+            "kind": "p",
+            "text": "RESIDENTIAL EXPERIENCE",
+            "id": ""
+          },
+          {
+            "kind": "p",
+            "text": "Live and learn within the same environment.",
+            "id": ""
+          }
+        ]
+      },
+      {
+        "kind": "card",
+        "variant": "sec11-box1",
+        "children": [
+          {
+            "kind": "image",
+            "src": "https://storage.googleapis.com/kashishyoga01/new200/sec11-img-5.webp",
+            "alt": "200 yoga"
+          },
+          {
+            "kind": "p",
+            "text": "EXPERIENCED TEACHERS",
+            "id": ""
+          },
+          {
+            "kind": "p",
+            "text": "Show actual teacher credentials rather than generic claims.",
+            "id": ""
+          }
+        ]
+      },
+      {
+        "kind": "card",
+        "variant": "sec11-box",
+        "children": [
+          {
+            "kind": "image",
+            "src": "https://storage.googleapis.com/kashishyoga01/new200/sec11-img-4.webp",
+            "alt": "200 yoga"
+          },
+          {
+            "kind": "p",
+            "text": "SUPPORT",
+            "id": ""
+          },
+          {
+            "kind": "p",
+            "text": "Support before arrival, during and even after the course.",
+            "id": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "section-17",
+    "class": "section-12",
+    "blocks": [
+      {
+        "kind": "h2",
+        "text": "Meet the Teachers",
+        "id": ""
+      },
+      {
+        "kind": "h3",
+        "text": "you'll learn from",
+        "id": ""
+      },
+      {
+        "kind": "card",
+        "variant": "sec12-box-1",
+        "children": [
+          {
+            "kind": "image",
+            "src": "https://storage.googleapis.com/kashishyoga01/new200/sec12-img-1.webp",
+            "alt": "200 yoga"
+          },
+          {
+            "kind": "h5",
+            "text": "Aravind Prasad",
+            "id": ""
+          },
+          {
+            "kind": "p",
+            "text": "Teaching since 14+ years",
+            "id": ""
+          },
+          {
+            "kind": "p",
+            "text": "For Aravind Prasad, yoga is an ancient wisdom system designed for complete human transformation - integrating health, relationships, work, and spiritual wellbeing into a harmonious whole.",
+            "id": ""
+          },
+          {
+            "kind": "p",
+            "text": "Yoga Philosophy & Tantra Practitioner",
+            "id": ""
+          }
+        ]
+      },
+      {
+        "kind": "card",
+        "variant": "sec12-box-1",
+        "children": [
+          {
+            "kind": "image",
+            "src": "https://storage.googleapis.com/kashishyoga01/new200/sec12-img-2.webp",
+            "alt": "200 yoga"
+          },
+          {
+            "kind": "h5",
+            "text": "Shruti Modi",
+            "id": ""
+          },
+          {
+            "kind": "p",
+            "text": "Teaching since 7+ years",
+            "id": ""
+          },
+          {
+            "kind": "p",
+            "text": "For Shruti, yoga is a journey toward inner harmony and self-discovery - a practice that weaves together mind, body, and spirit while fostering a deep connection with oneself and the world around us.",
+            "id": ""
+          },
+          {
+            "kind": "p",
+            "text": "Mindfulness & Breathwork Facilitator",
+            "id": ""
+          }
+        ]
+      },
+      {
+        "kind": "card",
+        "variant": "sec12-box-1",
+        "children": [
+          {
+            "kind": "image",
+            "src": "https://storage.googleapis.com/kashishyoga01/new200/sec12-img-3.webp",
+            "alt": "200 yoga"
+          },
+          {
+            "kind": "h5",
+            "text": "Santhosh Kumar",
+            "id": ""
+          },
+          {
+            "kind": "p",
+            "text": "Teaching since 12+ years",
+            "id": ""
+          },
+          {
+            "kind": "p",
+            "text": "Get ready for a yogic whirlwind, because we've got a rockstar in the house! Santhosh, aka the \"Prana-Man,\" is like a pranic energy powerhouse, all about pranayama and meditation.",
+            "id": ""
+          },
+          {
+            "kind": "p",
+            "text": "Hatha Yoga | Ashtanga Yoga | Yoga Anatomy",
+            "id": ""
+          }
+        ]
+      },
+      {
+        "kind": "card",
+        "variant": "sec12-box-1",
+        "children": [
+          {
+            "kind": "image",
+            "src": "https://storage.googleapis.com/kashishyoga01/new200/sec12-img-4.webp",
+            "alt": "200 yoga"
+          },
+          {
+            "kind": "h5",
+            "text": "Prasad Deoraj Pawar",
+            "id": ""
+          },
+          {
+            "kind": "p",
+            "text": "Teaching since 7+ years",
+            "id": ""
+          },
+          {
+            "kind": "p",
+            "text": "Known for his simple, honest, and accessible approach, Prasad believes that the practice of yoga extends far beyond the physical mat.",
+            "id": ""
+          },
+          {
+            "kind": "p",
+            "text": "Hatha Yoga | Ashtanga Yoga | Vinyasa Yoga | Pranayama",
+            "id": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "section-18",
+    "class": "section-9b",
+    "blocks": [
+      {
+        "kind": "h2",
+        "text": "Your 200-hour Yoga Teacher",
+        "id": ""
+      },
+      {
+        "kind": "h3",
+        "text": "Training Certificate",
+        "id": ""
+      },
+      {
+        "kind": "image",
+        "src": "https://static.wixstatic.com/media/774f0c_4e938b14794c481998903a953fc1fe94~mv2.webp",
+        "alt": "Multi-Style 200 Hour YTTC"
+      },
+      {
+        "kind": "p",
+        "text": "AFTER YOUR GRADUATION YOU CAN:",
+        "id": ""
+      },
+      {
+        "kind": "p",
+        "text": "Teach anywhere in the world as well as on Mars.",
+        "id": ""
+      },
+      {
+        "kind": "p",
+        "text": "Teach any style of yoga",
+        "id": ""
+      },
+      {
+        "kind": "p",
+        "text": "Teach both online and in-person",
+        "id": ""
+      },
+      {
+        "kind": "p",
+        "text": "MOST IMPORTANTLY- You’ll be TRAINED AND PREPARED to actually TEACH.",
+        "id": ""
+      },
+      {
+        "kind": "p",
+        "text": "Kashish Yoga is registered with Yoga Alliance International – benchmark of quality. Our certification entitles you to teach anywhere in the world and we believe that your graduation day isn’t an ending but the beginning of a beautiful, impactful, dynamic, & transformed YOU.",
+        "id": ""
+      },
+      {
+        "kind": "image",
+        "src": "https://storage.googleapis.com/kashishyoga01/200/yoga-logos.svg",
+        "alt": "Multi-Style 200 Hour YTTC"
+      },
+      {
+        "kind": "image",
+        "src": "https://kashishyoga.com/200-multi-style/image/200_hour_New_certificate.webp",
+        "alt": "Multi-Style 200"
+      }
+    ]
+  },
+  {
+    "id": "section-19",
+    "class": "section-13",
+    "blocks": [
+      {
+        "kind": "h2",
+        "text": "Your First Trip to India?",
+        "id": ""
+      },
+      {
+        "kind": "h3",
+        "text": "We'll help you Prepare.",
+        "id": ""
+      },
+      {
+        "kind": "p",
+        "text": "You don't need to figure everything out alone. We'll help you understand what to expect before you arrive.",
+        "id": ""
+      },
+      {
+        "kind": "card",
+        "variant": "sec-13-box",
+        "children": [
+          {
+            "kind": "p",
+            "text": "BEFORE YOU FLY",
+            "id": ""
+          },
+          {
+            "kind": "p",
+            "text": "Visa guidance, packing information and arrival preparation.",
+            "id": ""
+          }
+        ]
+      },
+      {
+        "kind": "card",
+        "variant": "sec-13-box",
+        "children": [
+          {
+            "kind": "p",
+            "text": "ARRIVAL IN GOA",
+            "id": ""
+          },
+          {
+            "kind": "p",
+            "text": "Airport pickup information and directions.",
+            "id": ""
+          }
+        ]
+      },
+      {
+        "kind": "card",
+        "variant": "sec-13-box",
+        "children": [
+          {
+            "kind": "p",
+            "text": "GOING HOME",
+            "id": ""
+          },
+          {
+            "kind": "p",
+            "text": "Course completion and departure guidance.",
+            "id": ""
+          }
+        ]
+      },
+      {
+        "kind": "card",
+        "variant": "sec-13-box",
+        "children": [
+          {
+            "kind": "p",
+            "text": "DURING YOUR STAY",
+            "id": ""
+          },
+          {
+            "kind": "p",
+            "text": "Residential support and assistance.",
+            "id": ""
+          }
+        ]
+      },
+      {
+        "kind": "action",
+        "text": "TALK TO OUR COUNSELLOR",
+        "href": "https://wa.me/9732189000?text=Multi-Style%20200%20Hour"
+      }
+    ]
+  },
+  {
+    "id": "section-20",
+    "class": "section-14 left-custom-padding-31",
+    "blocks": [
+      {
+        "kind": "h2",
+        "text": "Feel Supported from",
+        "id": ""
+      },
+      {
+        "kind": "h3",
+        "text": "Arrival to Graduation",
+        "id": ""
+      },
+      {
+        "kind": "p",
+        "text": "Travelling to India for the first time can feel exciting - and a little overwhelming. That's why support before and during your stay matters.",
+        "id": ""
+      },
+      {
+        "kind": "p",
+        "text": "✓ Airport pickup",
+        "id": ""
+      },
+      {
+        "kind": "p",
+        "text": "✓ Course support team",
+        "id": ""
+      },
+      {
+        "kind": "p",
+        "text": "✓ Residential campus",
+        "id": ""
+      },
+      {
+        "kind": "p",
+        "text": "✓ International student community",
+        "id": ""
+      },
+      {
+        "kind": "p",
+        "text": "✓ Clear arrival instructions",
+        "id": ""
+      },
+      {
+        "kind": "p",
+        "text": "✓ Dedicated contact options",
+        "id": ""
+      },
+      {
+        "kind": "image",
+        "src": "https://static.wixstatic.com/media/774f0c_785e2dfaf1654da5b06676805962d731~mv2.webp",
+        "alt": "Multi-Style"
+      },
+      {
+        "kind": "action",
+        "text": "TALK TO A COURSE COUNSELLOR",
+        "href": "https://wa.me/9732189000?text=Multi-Style%20200%20Hour"
+      }
+    ]
+  },
+  {
+    "id": "section-21",
+    "class": "section-15",
+    "blocks": [
+      {
+        "kind": "h2",
+        "text": "FAQs",
+        "id": ""
+      },
+      {
+        "kind": "p",
+        "text": "Everything you need to know about the 200 Hours YTTC program, from eligibility to logistics.",
+        "id": ""
+      },
+      {
+        "kind": "detail",
+        "text": "Do I need previous yoga experience?",
+        "children": [
+          {
+            "kind": "p",
+            "text": "Prior yoga experience is helpful but not required to join a Yoga Teacher Training Course (TTC). Whether you’re a beginner or have some practice, the training guides you step-by-step. The most important quality is a strong desire to learn and grow in your yoga journey.",
+            "id": ""
+          }
+        ]
+      },
+      {
+        "kind": "detail",
+        "text": "Is this suitable for complete beginners?",
+        "children": [
+          {
+            "kind": "p",
+            "text": "Some beginners may have a considerable amount of yoga knowledge and follow a yogic lifestyle but may not be so advanced in asana practice. Other beginners may have great physical ability for the asana practice but may not have an understanding or knowledge of yoga as a whole. In either case, if you show great dedication and devotion to learning yoga, the training may be suitable.",
+            "id": ""
+          }
+        ]
+      },
+      {
+        "kind": "detail",
+        "text": "How many days is the training?",
+        "children": [
+          {
+            "kind": "p",
+            "text": "The training will be for 24 days.",
+            "id": ""
+          }
+        ]
+      },
+      {
+        "kind": "detail",
+        "text": "What is included in the price?",
+        "children": [
+          {
+            "kind": "p",
+            "text": "The following is included in your course investment:",
+            "id": ""
+          },
+          {
+            "kind": "p",
+            "text": "Comprehensive 200 Hour Teacher Training Course",
+            "id": ""
+          },
+          {
+            "kind": "p",
+            "text": "Manual and materials (Kriya Set)",
+            "id": ""
+          },
+          {
+            "kind": "p",
+            "text": "23 nights accommodation",
+            "id": ""
+          },
+          {
+            "kind": "p",
+            "text": "3 Vegetarian meals per day (except Sunday)",
+            "id": ""
+          },
+          {
+            "kind": "p",
+            "text": "Drinking Water, Coffee, Green Tea",
+            "id": ""
+          },
+          {
+            "kind": "p",
+            "text": "1 Detox Shot everyday (except Sunday)",
+            "id": ""
+          },
+          {
+            "kind": "p",
+            "text": "1 Fresh Fruit Juice everyday (except Sunday)",
+            "id": ""
+          },
+          {
+            "kind": "p",
+            "text": "One Way Shuttle Airport pick up from Goa Dabolim Airport. (It will run three times on the day of the beginning of your course at 8 am, 12 pm and 4 pm)",
+            "id": ""
+          },
+          {
+            "kind": "p",
+            "text": "Free WiFi",
+            "id": ""
+          },
+          {
+            "kind": "p",
+            "text": "Bicycles to visit the market or nearby beach.",
+            "id": ""
+          },
+          {
+            "kind": "p",
+            "text": "1 Indian Cooking Class",
+            "id": ""
+          },
+          {
+            "kind": "p",
+            "text": "1 Indian Saree Draping Session",
+            "id": ""
+          },
+          {
+            "kind": "p",
+            "text": "1 Naturopathy Treatment",
+            "id": ""
+          },
+          {
+            "kind": "p",
+            "text": "1 Ayurvedic Massage",
+            "id": ""
+          }
+        ]
+      },
+      {
+        "kind": "detail",
+        "text": "Are flights included?",
+        "children": [
+          {
+            "kind": "p",
+            "text": "No, flights are not included in your fees. You will have to arrange that by yourself. We can provide assistance with selection and research should you want.",
+            "id": ""
+          }
+        ]
+      },
+      {
+        "kind": "detail",
+        "text": "Do I need a visa?",
+        "children": [
+          {
+            "kind": "p",
+            "text": "All out-of-India citizens require a valid visa to enter India. The appropriate visa category for tourism is the \"Tourist Visa\". Applying for your visa well before your intended travel date is important, as the processing times can vary.",
+            "id": ""
+          },
+          {
+            "kind": "p",
+            "text": "To apply for an Indian Tourist Visa, follow these steps:",
+            "id": ""
+          },
+          {
+            "kind": "p",
+            "text": "Visit the official website of the Indian Visa Online Application Centre (https://indianvisaonline.gov.in/evisa/tvoa.html) and apply for an e-tourist visa. This would be available within 4-7 working days most often.",
+            "id": ""
+          },
+          {
+            "kind": "p",
+            "text": "For someone enrolling on a 200 Hour program, a 30 days visa is also good. However, someone planning to enrol in a 300 Hour program or having an intention to travel across India before or after any Yoga Teacher Training Course, should apply for a 1-year visa.",
+            "id": ""
+          },
+          {
+            "kind": "p",
+            "text": "Extensions of tourist visas within India are generally not allowed.",
+            "id": ""
+          },
+          {
+            "kind": "p",
+            "text": "Important: E-visa must be applied at least (latest) four days before the arrival date.",
+            "id": ""
+          }
+        ]
+      },
+      {
+        "kind": "detail",
+        "text": "How do I get from Goa airport to Kashish?",
+        "children": [
+          {
+            "kind": "p",
+            "text": "Your airport shuttle pick-up is included in the package. The shuttle will run 3 times on the day of the beginning of your course at 8 AM, 12 PM and 4 PM.",
+            "id": ""
+          },
+          {
+            "kind": "p",
+            "text": "Should the above not match with your time and date of arrival, then you may choose to request for a special pickup from us for 22 EUR from Madgaon Railway Station, 35 EUR additional from GOI, 65 EUR from GOX.",
+            "id": ""
+          }
+        ]
+      },
+      {
+        "kind": "detail",
+        "text": "Can I travel alone?",
+        "children": [
+          {
+            "kind": "p",
+            "text": "We are located in a very safe location in Goa. The local population are very mindful of maintaining safety for visitors to create sustainable tourism. India in general has much lower crime rates than other countries and most people have entirely positive experiences. All travellers should take the usual precautions that you would take at home and when travelling anywhere. Most people feel a lot safer and at ease in India than at home and this is often a welcome surprise. We recommend that women travel in women’s compartments in trains and we encourage students to take flights to Goa instead of busses to avoid dangerous roads. Our Training and Retreat Centre in Goa has 24 hour security and any visitors to the training Centre must pre-register before being granted access. We are extremely strict regarding security and safety of our yoga guests. We organize airport pick-ups for all of our trainees with local drivers who we know and trust. We have been using the same drivers for the last decade and they are well used to looking after our staff, yoga visitors and trainees.",
+            "id": ""
+          }
+        ]
+      },
+      {
+        "kind": "detail",
+        "text": "What food is provided?",
+        "children": [
+          {
+            "kind": "p",
+            "text": "Pure, vegetarian food is provided in the school. No eggs, meat or fish is allowed in the campus. Breakfast, Lunch and Dinner along with detox juices, refreshment, tea, coffee, water is provided. Sundays are off for meals giving all students an opportunity to try out local cuisines in the cafes and restaurants nearby.",
+            "id": ""
+          }
+        ]
+      },
+      {
+        "kind": "detail",
+        "text": "Is accommodation included?",
+        "children": [
+          {
+            "kind": "p",
+            "text": "Yes, accommodation is included in the fees depending upon your selection of room type.",
+            "id": ""
+          }
+        ]
+      },
+      {
+        "kind": "detail",
+        "text": "What certification do I receive?",
+        "children": [
+          {
+            "kind": "p",
+            "text": "Our school and courses are duly accredited by Yoga Alliance International (USA). So after the successful completion of your course, you will be able to teach yoga anywhere across the globe. Please see a sample certificate attached below for your reference:",
+            "id": ""
+          }
+        ]
+      },
+      {
+        "kind": "detail",
+        "text": "Can I change my course date?",
+        "children": [
+          {
+            "kind": "p",
+            "text": "In case you are unable to arrive for your previously decided dates due to some reason, you can always request a shift of dates. It will be subject to availability and the discount (Early Bird if applied previously) will also be subject to the new dates selected.",
+            "id": ""
+          }
+        ]
+      },
+      {
+        "kind": "detail",
+        "text": "What is the cancellation/refund policy?",
+        "children": [
+          {
+            "kind": "p",
+            "text": "Please note that no fees (whether paid in partial or full) will be refundable. In case the student decides to leave the course after the payment of the deposit or the full fees due to any reason, they will not be entitled to any refund of the fees paid.",
+            "id": ""
+          },
+          {
+            "kind": "p",
+            "text": "They shall have the option to continue the course at a future date (within a period of 1 year) from where they left off. However, no requests for refunds will be entertained for the cancellation of the course at any time.",
+            "id": ""
+          }
+        ]
+      },
+      {
+        "kind": "detail",
+        "text": "Can I speak to someone before booking?",
+        "children": [
+          {
+            "kind": "p",
+            "text": "Absolutely, we have several course counsellors to help you with your queries. They can also get you in touch with our teaching faculty should you need as well as Kashish alumni to help resolve your doubts with utmost satisfaction.",
+            "id": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "section-22",
+    "class": "section-16",
+    "blocks": [
+      {
+        "kind": "h2",
+        "text": "Ready to begin your",
+        "id": ""
+      },
+      {
+        "kind": "h3",
+        "text": "Yoga Journey in India?",
+        "id": ""
+      },
+      {
+        "kind": "p",
+        "text": "Choose your course date, check availability and start planning your 24-day experience in Goa.",
+        "id": ""
+      },
+      {
+        "kind": "action",
+        "text": "CHECK DATES & PRICES",
+        "href": "#course_date"
+      },
+      {
+        "kind": "action",
+        "text": "TALK TO OUR COUNSELLOR",
+        "href": "https://wa.me/9732189000?text=Multi-Style%20200%20Hour"
+      }
+    ]
+  }
+]
